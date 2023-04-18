@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi;it's+chifou)](https://git.io/typing-svg)
 ### Hi everyone 👋
-<li> 🔭 I’m currently working on AstraMC & Xyperia RPG <br/></li>
+<li> 🔭 I’m currently working on AstraMC & Xyperia RPG & Waklon<br/></li>
 <li>🌱 I’m currently learning C++; C</li>
 <li>💬 Ask me about Java; Swift <li>
 
