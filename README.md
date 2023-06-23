@@ -2,7 +2,7 @@
 ### Hi everyone 👋
 <li> 🔭 I’m currently working on AstraMC & Xyperia RPG & Waklon<br/></li>
 <li>🌱 I’m currently learning C++; C</li>
-<li>💬 Ask me about Java; Swift; Js/Ts<li>
+<li>💬 Ask me about Java; Swift; Js/Ts; C++<li>
 
 <img src="https://github-readme-stats.vercel.app/api?username=chifouuu&theme=dark&show_icons=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chifouuu&theme=radical&layout=compact">
